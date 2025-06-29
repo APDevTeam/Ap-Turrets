@@ -26,7 +26,7 @@ dependencies {
 }
 
 group = "com.snowleopard"
-version = "3.0.0_beta-4"
+version = "3.0.0_beta-5"
 description = "APTurrets"
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
