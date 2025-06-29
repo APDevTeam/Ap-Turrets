@@ -2,7 +2,7 @@ plugins {
     `java-library`
     `maven-publish`
     id("io.papermc.paperweight.userdev") version "1.7.1"
-    id("io.github.0ffz.github-packages") version "1.2.1"
+    id("io.github.apdevteam.github-packages") version "1.2.2"
 }
 
 repositories {
@@ -26,7 +26,7 @@ dependencies {
 }
 
 group = "com.snowleopard"
-version = "3.0.0_beta-4"
+version = "3.0.0_beta-5"
 description = "APTurrets"
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
