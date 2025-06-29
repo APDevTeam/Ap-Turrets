@@ -2,7 +2,7 @@ plugins {
     `java-library`
     `maven-publish`
     id("io.papermc.paperweight.userdev") version "1.7.1"
-    id("io.github.0ffz.github-packages") version "1.2.1"
+    id("io.github.apdevteam.github-packages") version "1.2.2"
 }
 
 repositories {
